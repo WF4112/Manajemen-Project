@@ -1,4 +1,4 @@
-# Manajemen-Project
+# Manajemen Resiko Bank Syariah
 Islamic bank risk management project team
 
 A.	Manajemen Resiko Bank Syariah
